@@ -1,1 +1,15 @@
-
+[
+  {
+    "name": "Main Server",
+    "url": "https://rakibbd.online//",
+    "active": true,
+    "isKilled": false
+  },
+  {
+    "name": "App Kill",
+    "url": "",
+    "active": false,
+    "isKilled": false,
+    "killMessage": "SECURITY ALERT: ACCESS RESTRICTED\n\nThis application version has been officially decommissioned to maintain security integrity. Your current access has been suspended by the administrator.\n\nPlease contact your service provider or visit the official channel to download the latest update."
+  }
+]
